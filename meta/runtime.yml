@@ -1389,6 +1389,10 @@ plugin_routing:
        redirect: community.general.cloud.scaleway.scaleway_function_namespace
     scaleway_function_namespace_info:
        redirect: community.general.cloud.scaleway.scaleway_function_namespace_info
+    scaleway_function:
+       redirect: community.general.cloud.scaleway.scaleway_function
+    scaleway_function_info:
+       redirect: community.general.cloud.scaleway.scaleway_function_info
     scaleway_image_facts:
       tombstone:
         removal_version: 3.0.0

@@ -472,6 +472,10 @@ files:
      maintainers: Lunik
   $modules/cloud/scaleway/scaleway_function_namespace_info.py:
      maintainers: Lunik
+  $modules/cloud/scaleway/scaleway_function.py:
+     maintainers: Lunik
+  $modules/cloud/scaleway/scaleway_function_info.py:
+     maintainers: Lunik
   $modules/cloud/scaleway/scaleway_image_info.py:
     maintainers: Spredzy
   $modules/cloud/scaleway/scaleway_ip_info.py:
